@@ -1,0 +1,14 @@
+E:\Users\Евгений\source\repos\Task_quicksort\Task_quicksort\bin\Debug\netcoreapp3.1\Task_quicksort.exe
+E:\Users\Евгений\source\repos\Task_quicksort\Task_quicksort\bin\Debug\netcoreapp3.1\Task_quicksort.deps.json
+E:\Users\Евгений\source\repos\Task_quicksort\Task_quicksort\bin\Debug\netcoreapp3.1\Task_quicksort.runtimeconfig.json
+E:\Users\Евгений\source\repos\Task_quicksort\Task_quicksort\bin\Debug\netcoreapp3.1\Task_quicksort.runtimeconfig.dev.json
+E:\Users\Евгений\source\repos\Task_quicksort\Task_quicksort\bin\Debug\netcoreapp3.1\Task_quicksort.dll
+E:\Users\Евгений\source\repos\Task_quicksort\Task_quicksort\bin\Debug\netcoreapp3.1\Task_quicksort.pdb
+E:\Users\Евгений\source\repos\Task_quicksort\Task_quicksort\obj\Debug\netcoreapp3.1\Task_quicksort.csproj.AssemblyReference.cache
+E:\Users\Евгений\source\repos\Task_quicksort\Task_quicksort\obj\Debug\netcoreapp3.1\Task_quicksort.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Евгений\source\repos\Task_quicksort\Task_quicksort\obj\Debug\netcoreapp3.1\Task_quicksort.AssemblyInfoInputs.cache
+E:\Users\Евгений\source\repos\Task_quicksort\Task_quicksort\obj\Debug\netcoreapp3.1\Task_quicksort.AssemblyInfo.cs
+E:\Users\Евгений\source\repos\Task_quicksort\Task_quicksort\obj\Debug\netcoreapp3.1\Task_quicksort.csproj.CoreCompileInputs.cache
+E:\Users\Евгений\source\repos\Task_quicksort\Task_quicksort\obj\Debug\netcoreapp3.1\Task_quicksort.dll
+E:\Users\Евгений\source\repos\Task_quicksort\Task_quicksort\obj\Debug\netcoreapp3.1\Task_quicksort.pdb
+E:\Users\Евгений\source\repos\Task_quicksort\Task_quicksort\obj\Debug\netcoreapp3.1\Task_quicksort.genruntimeconfig.cache
